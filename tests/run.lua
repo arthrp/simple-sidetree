@@ -7,7 +7,6 @@ local st = require("simple-sidetree")
 local view = require("simple-sidetree.view")
 local tree = require("simple-sidetree.tree")
 local actions = require("simple-sidetree.actions")
-local config = require("simple-sidetree.config")
 
 -- Fixture ---------------------------------------------------------------------
 
