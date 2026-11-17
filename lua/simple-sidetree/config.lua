@@ -37,7 +37,7 @@ M.defaults = {
     ["-"] = "dir_up",
     ["C"] = "cd",
     ["Y"] = "copy_path",
-    ["q"] = "close",
+    ["c"] = "close",
     ["g?"] = "help",
   },
 }
